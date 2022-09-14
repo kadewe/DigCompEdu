@@ -1,9 +1,9 @@
 {
   "framework": {
-    }, "institution": { "all",
-    }, { "name": { "DigCompEdu HB ALPHA",
-    "description": "The DigCompEdu HB is a general reference and competence framework for all phases of initial and in-service teacher education. It is aimed at student teachers, early career teachers as well as experienced teachers and leaders. In this current ALPHA version, it will be tested and further developed in the 2022 academic years. The DigCompEdu HB is based on the European Framework for Teachers' Digital Literacy (DigCompEdu) and the version of the DigCompEdu Bavaria adapted and translated into German by Mebis."
-    { "selfassessment": false,
+    "institution": "all",
+    "name": "DigCompEdu HB ALPHA",
+    "description": "The DigCompEdu HB is a general reference and competence framework for all phases of initial and in-service teacher education. It is aimed at student teachers, early career teachers as well as experienced teachers and leaders. In this current ALPHA version, it will be tested and further developed in the 2022 academic years. The DigCompEdu HB is based on the European Framework for Teachers' Digital Literacy (DigCompEdu) and the version of the DigCompEdu Bavaria adapted and translated into German by Mebis.",
+    "selfassessment": false,
     "evidencestatuses": [
       {
         "begun": "ready for assessment"
@@ -18,48 +18,48 @@
         "completed": "Meets requirements"
       }
     ],
-    }, { "standards": [
+    "standards": [
       {
         "shortname": "1 - Job-related action",
-        }, "name": "1 - Job-Related Action",
-        "description": "Job-related action refers to your competencies to select, use, and design digital tools, services, and environments for professional communication, collegial collaboration, reflective action, and continuous development."
-        }, "standardid": 1
+        "name": "1 - Job-Related Action",
+        "description": "Job-related action refers to your competencies to select, use, and design digital tools, services, and environments for professional communication, collegial collaboration, reflective action, and continuous development.",
+        "standardid": 1
       },
       {
         "shortname": "2 - Digital Resources",
-        }, { "name": "2 - Digital Resources",
-        "description": "Digital Resources covers your competencies in making reasoned selections of digital resources, creating and adapting digital resources for use in the classroom, and organizing, protecting, and sharing digital resources."
+        "name": "2 - Digital Resources",
+        "description": "Digital Resources covers your competencies in making reasoned selections of digital resources, creating and adapting digital resources for use in the classroom, and organizing, protecting, and sharing digital resources.",
         "standardid": 2
       },
       {
         "shortname": "3 - Teaching and Learning",
-        }, { "name": "3 - Teaching and Learning",
-        "description": "Teaching and learning refers to the purposeful use of digital media and tools in the classroom, to digitally support learning support, to digitally support collaborative learning, as well as to enable self-directed learning."
+        "name": "3 - Teaching and Learning",
+        "description": "Teaching and learning refers to the purposeful use of digital media and tools in the classroom, to digitally support learning support, to digitally support collaborative learning, as well as to enable self-directed learning.",
         "standardid": 3
       },
       {
         "shortname": "4 - Learning Diagnostics and Feedback",
         "name": "4 - Learning Diagnostics and Feedback",
-        "description": "Learning diagnosis and feedback refers to the reflective use of digital media for learning assessment, analysis of learning evidence, and use for feedback and planning."
+        "description": "Learning diagnosis and feedback refers to the reflective use of digital media for learning assessment, analysis of learning evidence, and use for feedback and planning.",
         "standardid": 4
       },
       {
         "shortname": "5 - Student Orientation",
-        }, { "name": "5 - Student Orientation",
+        "name": "5 - Student Orientation",
         "description": "Student orientation refers to ensuring accessibility and digital participation, differentiation as well as student activation.",
         "standardid": 5
       },
       {
         "shortname": "6 - Promoting learner media literacy",
         "name": "6 - Promoting learners' media literacy",
-        "description": "Promotion of learners' media literacy refers to the promotion of the 6 media literacy facets described in the KMK strategy paper as well as, by extension of DigCompEdu, media education in general."
+        "description": "Promotion of learners' media literacy refers to the promotion of the 6 media literacy facets described in the KMK strategy paper as well as, by extension of DigCompEdu, media education in general.",
         "standardid": 6
       },
       {
         "shortname": "7 - Own academic media literacy",
         "name": "7 - Own academic media literacy",
-        "description": "As an extension of DigCompEdu, academic media literacy includes their own media competencies at least to the extent of the media competencies to be fostered in the SuS (see requirement of the KMK strategy paper or DigComp 2.2) as well as more advanced basics of communication and media studies, media psychology, and media education."
-        }, "standardid": 7
+        "description": "As an extension of DigCompEdu, academic media literacy includes their own media competencies at least to the extent of the media competencies to be fostered in the SuS (see requirement of the KMK strategy paper or DigComp 2.2) as well as more advanced basics of communication and media studies, media psychology, and media education.",
+        "standardid": 7
       }
     ],
     "standardelements": [
@@ -67,28 +67,28 @@
         "shortname": "1.1 - Professional Communication",
         "name": "1.1 - Professional Communication",
         "description": "Using digital media to communicate with learners, educators, and third parties. Contribute to the development and improvement of organizational communication strategies.",
-        }, "standardid": 1,
+        "standardid": 1,
         "elementid": "1.1"
       },
       {
         "shortname": "1.2 - Collegial Collaboration",
         "name": "1.2 - Collegial Collaboration",
-        "description": "Use digital media to collaborate with others, share experiences and materials, and develop instructional approaches together."
-        }, "standardid": 1,
+        "description": "Use digital media to collaborate with others, share experiences and materials, and develop instructional approaches together.",
+        "standardid": 1,
         "elementid": "1.2"
       },
       {
         "shortname": "1.3 - Reflective Action",
         "name": "1.3 - Reflective Action",
-        "description": "DReflect, self-critically assess, and actively develop pedagogical action with regard to the didactically meaningful use of digital media and tools individually and as a group."
+        "description": "DReflect, self-critically assess, and actively develop pedagogical action with regard to the didactically meaningful use of digital media and tools individually and as a group.",
         "standardid": 1,
         "elementid": "1.3"
       },
       {
         "shortname": "1.4 - Continuous Development",
-        }, { "name": "1.4 - Continuous Development",
+        "name": "1.4 - Continuous Development",
         "description": "Use digital media and tools for professional development.",
-        }, "standardid": 1,
+        "standardid": 1,
         "elementid": "1.4"
       },
       {
@@ -102,160 +102,160 @@
         "shortname": "2.2 - Create and customize digital resources",
         "name": "2.2 - Create and Customize Digital Resources",
         "description": "Modify and further develop existing digital teaching and learning resources, taking into account the respective licenses. Create or co-design new digital educational resources. Consider intended skill acquisition, context, didactic approach, and learner group when creating and adapting digital resources.",
-        }, "standardid": 2,
+        "standardid": 2,
         "elementid": "2.2"
       },
       {
         "shortname": "2.3 - Organize, protect, and share digital resources",
         "name": "2.3 - Organize, protect and share digital resources",
-        "description": "Organize and make digital content available to learners, educators, and other educators. Protect personal information effectively. Know, respect, and correctly apply privacy and copyright laws. Use materials with free licenses (especially Open Educational Resources (OER)) and properly label them for reuse."
-        }, "standardid": 2,
+        "description": "Organize and make digital content available to learners, educators, and other educators. Protect personal information effectively. Know, respect, and correctly apply privacy and copyright laws. Use materials with free licenses (especially Open Educational Resources (OER)) and properly label them for reuse.",
+        "standardid": 2,
         "elementid": "2.3"
       },
       {
-        }, "shortname": "3.1 - Teaching",
-        }, { "name": "3.1 - Teaching",
+        "shortname": "3.1 - Teaching",
+        "name": "3.1 - Teaching",
         "description": "Using digital media and tools purposefully in the classroom to support learning processes. Develop and try out new formats and methods for teaching.",
-        }, "standardid": 3,
+        "standardid": 3,
         "elementid": "3.1"
       },
       {
         "shortname": "3.2 - Learning Support",
-        }, { "name": "3.2 - Learning Support",
-        "description": "Use digital media to enhance interaction with learners on an individual level and as a group, inside and outside of class time. Use and further develop contemporary forms of assistance and instruction and provide timely and targeted guidance and support."
-        "standardid": "3,
+        "name": "3.2 - Learning Support",
+        "description": "Use digital media to enhance interaction with learners on an individual level and as a group, inside and outside of class time. Use and further develop contemporary forms of assistance and instruction and provide timely and targeted guidance and support.",
+        "standardid": 3,
         "elementid": "3.2"
       },
       {
         "shortname": "3.3 - Collaborative Learning",
-        }, { "name": "3.3 - Collaborative Learning",
-        "description": "Use digital media to promote and enhance collaborative learning strategies. Enable learners to use digital media with others to develop new knowledge and connect to existing knowledge through communication and collaboration."
-        "standardid": "3,
+        "name": "3.3 - Collaborative Learning",
+        "description": "Use digital media to promote and enhance collaborative learning strategies. Enable learners to use digital media with others to develop new knowledge and connect to existing knowledge through communication and collaboration.",
+        "standardid": 3,
         "elementid": "3.3"
       },
       {
         "shortname": "3.4 - Self-Directed Learning",
-        }, { "name": "3.4 - Self-Directed Learning",
-        "description": "Use digital technologies to support self-directed learning processes, i.e., enable learners to plan their own learning, reflect on it, document progress, communicate results, and develop creative solutions."
-        }, "standardid": 3,
+        "name": "3.4 - Self-Directed Learning",
+        "description": "Use digital technologies to support self-directed learning processes, i.e., enable learners to plan their own learning, reflect on it, document progress, communicate results, and develop creative solutions.",
+        "standardid": 3,
         "elementid": "3.4"
       },
       {
         "shortname": "4.1 - Learning Assessment",
-        }, { "name": "4.1 - Learning Assessment",
+        "name": "4.1 - Learning Assessment",
         "description": "Using digital media for learning assessment. Use digital media to increase the variety and appropriateness of assessment formats and approaches.",
-        }, "standardid": 4,
+        "standardid": 4,
         "elementid": "4.1"
       },
       {
         "shortname": "4.2 - Analysis of Learning Evidence",
         "name": "4.2 - Learning Evidence Analysis",
-        "description": "Digitally collect, analyze, and interpret data on learning behaviors, performance, and progress to produce information related to learning and teaching."
-        }, "standardid": 4,
+        "description": "Digitally collect, analyze, and interpret data on learning behaviors, performance, and progress to produce information related to learning and teaching.",
+        "standardid": 4,
         "elementid": "4.2"
       },
       {
         "shortname": "4.3 - Feedback and Planning",
         "name": "4.3 - Feedback and Planning",
         "description": "Use digital media to provide targeted and timely individualized feedback to learners, including peer feedback. Based on available information, adapt instructional strategies and provide targeted support to learners.",
-        }, "standardid": 4,
+        "standardid": 4,
         "elementid": "4.3"
       },
       {
         "shortname": "5.1 - Student Orientation",
-        }, { "name": "5.1 - Student Orientation",
-        "description": "Ensure that all learners can make full use of the digital media and learning activities used in accordance with their respective learning requirements. Take into account the learners' application competencies and abilities, technical framework conditions, and physical and cognitive limitations when using media. Use digital media in an individually supportive manner."
-        }, "standardid": 5,
+        "name": "5.1 - Student Orientation",
+        "description": "Ensure that all learners can make full use of the digital media and learning activities used in accordance with their respective learning requirements. Take into account the learners' application competencies and abilities, technical framework conditions, and physical and cognitive limitations when using media. Use digital media in an individually supportive manner.",
+        "standardid": 5,
         "elementid": "5.1"
       },
       {
-        }, "shortname": "5.2 - Differentiation",
-        }, { "name": "5.2 - Differentiation",
-        "description": "Enabling learners to achieve their individual learning goals as well as the level of performance required in the respective educational pathway at their own pace of learning and to follow individual learning paths."
-        }, "standardid": 5,
+        "shortname": "5.2 - Differentiation",
+        "name": "5.2 - Differentiation",
+        "description": "Enabling learners to achieve their individual learning goals as well as the level of performance required in the respective educational pathway at their own pace of learning and to follow individual learning paths.",
+        "standardid": 5,
         "elementid": "5.2"
       },
       {
         "shortname": "5.3 - Student Activation",
-        }, { "name": "5.3 - Student Activation",
-        "description": "Use digital media and tools to activate learners and encourage creative engagement with the subject matter. Incorporate digital media and tools methodically to encourage learners to engage in deeper engagement, transfer, and creative problem solving. Use authentic digital and real-world materials and apply methods of scholarly work. Develop problem-based, hands-on learning scenarios to increase learner self-activity and in-depth engagement with the subject matter."
-        }, "standardid": 5,
+        "name": "5.3 - Student Activation",
+        "description": "Use digital media and tools to activate learners and encourage creative engagement with the subject matter. Incorporate digital media and tools methodically to encourage learners to engage in deeper engagement, transfer, and creative problem solving. Use authentic digital and real-world materials and apply methods of scholarly work. Develop problem-based, hands-on learning scenarios to increase learner self-activity and in-depth engagement with the subject matter.",
+        "standardid": 5,
         "elementid": "5.3"
       },
 {
         "shortname": "6.1 - Basic Competencies",
-        }, { "name": "6.1 - Basic Competencies",
-        "description": "Integrate learning activities and tasks in which learners identify underlying information technology systems as they engage with media opportunities, thereby identifying contexts and solving problems."
-        }, "standardid": 6,
+        "name": "6.1 - Basic Competencies",
+        "description": "Integrate learning activities and tasks in which learners identify underlying information technology systems as they engage with media opportunities, thereby identifying contexts and solving problems.",
+        "standardid": 6,
         "elementid": "6.1"
       },
       {
         "shortname": "6.2 - Search and Process",
-        }, { "name": "6.2 - Search and Process",
+        "name": "6.2 - Search and Process",
         "description": "Subject-integrated teaching of the following competencies: searching and filtering; evaluating and assessing; and storing and retrieving.",
-        }, "standardid": 6,
+        "standardid": 6,
         "elementid": "6.2"
       },
       {
         "shortname": "6.3 - Communicate and Cooperate",
         "name": "6.3 - Communicate and Cooperate",
         "description": "Subject-integrated teaching of the following competencies: Interacting; Sharing; Cooperating; Knowing and abiding by rules of etiquette (netiquette); and Actively participating in society.",
-        }, "standardid": 6,
+        "standardid": 6,
         "elementid": "6.3"
       },
 {
         "shortname": "6.4 - Produce and Present",
-        }, { "name": "6.4 - Produce and Present",
+        "name": "6.4 - Produce and Present",
         "description": "Subject-integrated teaching of the following competencies: Developing and Producing; Further Processing and Integrating; and Observing Legal Requirements.",
-        }, "standardid": 6,
+        "standardid": 6,
         "elementid": "6.4"
       },
       {
         "shortname": "6.5 - Protect and act safely",
         "name": "6.5 - Protect and act safely",
-        "description": "Subject-embedded teaching of the following competencies: acting safely in digital environments; protecting personal data and privacy; protecting health; and protecting nature and the environment."
-        }, "standardid": 6,
+        "description": "Subject-embedded teaching of the following competencies: acting safely in digital environments; protecting personal data and privacy; protecting health; and protecting nature and the environment.",
+        "standardid": 6,
         "elementid": "6.5"
       },
 {
         "shortname": "6.6 - Problem Solving and Action",
         "name": "6.6 - Problem Solving and Action",
         "description": "Subject-integrated teaching of the following competencies: Solve technical problems; Use tools as needed; Identify own deficits and search for solutions; Use digital tools and media to learn, work, and solve problems; and Recognize and formulate algorithms.",
-        }, "standardid": 6,
+        "standardid": 6,
         "elementid": "6.6"
       },
       {
         "shortname": "6.7 - Analyze and Reflect",
         "name": "6.7 - Analyze and Reflect",
         "description": "Subject-integrated teaching of the following competencies: Analyze and evaluate media; and Understand and reflect on media in the digital world.",
-        }, "standardid": 6,
+        "standardid": 6,
         "elementid": "6.7"
       },
 
 	{
         "shortname": "7.1 - Own basic media literacy",
-        }, { "name": "7.1 - Own Media Base Competency",
-        "description": "Based on DigComp 2.2, all five competency facets to at least level 4 (intermediate), three facets to at least level 5 (advanced), two facets to at least level 6 (advanced), and one facet to at least level 7 (specialized)."
-        }, "standardid": "7",
+        "name": "7.1 - Own Media Base Competency",
+        "description": "Based on DigComp 2.2, all five competency facets to at least level 4 (intermediate), three facets to at least level 5 (advanced), two facets to at least level 6 (advanced), and one facet to at least level 7 (specialized).",
+        "standardid": 7,
         "elementid": "7.1"
       },
 	{
-        }, "shortname": "7.2 - Data Literacy",
-        }, { "name": "7.2 - Data Literacy",
-        "description": "Based on the Data Literacy Framework of the Higher Education Forum on Digitization (Working paper No. 53), develop a basic understanding of the competency areas (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) related to school-based/educational data."
-        }, "standardid": 7,
+        "shortname": "7.2 - Data Literacy",
+        "name": "7.2 - Data Literacy",
+        "description": "Based on the Data Literacy Framework of the Higher Education Forum on Digitization (Working paper No. 53), develop a basic understanding of the competency areas (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) related to school-based/educational data.",
+        "standardid": 7,
         "elementid": "7.2"
       },
 {
         "shortname": "7.3 - Media Education Foundations",
         "name": "7.3 - Media Pedagogical Foundations",
-        "description": "Based on the orientation framework of the Media Education Section of the DGfE for media education courses of study, basic knowledge, in particular reflection and action in media education responsibility or professional ethical attitude under the perspectives of education, education and didactics. Basic concepts and questions of media pedagogy. Understanding, analyzing and critically classifying media pedagogical concepts, models and theories and being able to relate them to one's own ideas. To be able to carry out and reflect on media analysis, media criticism and media design from the point of view of education and training, including media science approaches, and from the point of view of teaching and learning, including media didactic approaches. explain results and methods of media pedagogical research, critically classify them and be able to work out and reflect on individual procedures in an exemplary manner. Analyze and evaluate practical media education situations against the background of theory and empiricism and be able to design and evaluate them themselves. To be able to grasp, evaluate and further develop educational offers and institutional conditions of media pedagogical action."
+        "description": "Based on the orientation framework of the Media Education Section of the DGfE for media education courses of study, basic knowledge, in particular reflection and action in media education responsibility or professional ethical attitude under the perspectives of education, education and didactics. Basic concepts and questions of media pedagogy. Understanding, analyzing and critically classifying media pedagogical concepts, models and theories and being able to relate them to one's own ideas. To be able to carry out and reflect on media analysis, media criticism and media design from the point of view of education and training, including media science approaches, and from the point of view of teaching and learning, including media didactic approaches. explain results and methods of media pedagogical research, critically classify them and be able to work out and reflect on individual procedures in an exemplary manner. Analyze and evaluate practical media education situations against the background of theory and empiricism and be able to design and evaluate them themselves. To be able to grasp, evaluate and further develop educational offers and institutional conditions of media pedagogical action.",
         "standardid": 7,
         "elementid": "7.3"
       },
 {
         "shortname": "7.4 - Framing structures of media pedagogical action",
-        "name": "7.4 - Framing Structures of Media Pedagogical Action", "description": "Scientifically observe or record, reflect, observe and influence the structures, especially developments in the media field, processes of mediatization and digitalization in the societal context (including digital inequality, commercialization, datafication, change of public sphere), significance for learning, education and upbringing. Approaches to media socialization and media appropriation (including questions of media influence as well as informal learning with, about and through media). Social and cultural practices in the context of media (media cultures). Media pedagogically relevant results, e.g. of communication science, media (culture) science, computer science, media sociology, media psychology and media philo- sophy know and can classify for school practice."
+        "name": "7.4 - Framing Structures of Media Pedagogical Action", "description": "Scientifically observe or record, reflect, observe and influence the structures, especially developments in the media field, processes of mediatization and digitalization in the societal context (including digital inequality, commercialization, datafication, change of public sphere), significance for learning, education and upbringing. Approaches to media socialization and media appropriation (including questions of media influence as well as informal learning with, about and through media). Social and cultural practices in the context of media (media cultures). Media pedagogically relevant results, e.g. of communication science, media (culture) science, computer science, media sociology, media psychology and media philo- sophy know and can classify for school practice.",
         "standardid": 7,
         "elementid": "7.4"
       }
