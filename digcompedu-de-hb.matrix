@@ -1,8 +1,8 @@
 {
   "framework": {
     "institution": "all",
-    "name": "DigCompEdu HB ALPHA",
-    "description": "Der DigCompEdu HB ist ein allgemeiner Bezugs- und Kompetenzrahmen für alle Phasen der Aus- und Fortbildung von Lehrkräften. Er richtet sich an Lehramtsstudierende, Berufseinsteigerinnen und -einsteiger wie auch an erfahrene Lehrkräfte und Führungspersonen. In dieser aktuellen ALPHA Version wird er in den Studienjahren 2022 erprobt und weiterentwickelt. Der DigCompEdu HB basiert auf dem Europäischen Rahmen für die Digitale Kompetenz von Lehrenden (DigCompEdu) sowie auf der vom Mebis angepassten und auf Deutsch übersetzten Version des DigCompEdu Bavaria.",
+    "name": "DigCompEdu HB 2023",
+    "description": "Der DigCompEdu HB ist ein allgemeiner Bezugs- und Kompetenzrahmen für alle Phasen der Aus- und Fortbildung von Lehrkräften. Er richtet sich an Lehramtsstudierende, Berufseinsteigerinnen und -einsteiger wie auch an erfahrene Lehrkräfte und Führungspersonen. In dieser aktuellen Version 2023 wird er in den Studienjahren 2023 erprobt und weiterentwickelt. Der DigCompEdu HB basiert auf dem Europäischen Rahmen für die Digitale Kompetenz von Lehrenden (DigCompEdu 2.1), dem KMK Strategiepapier 'Bildung in der digitalen Welt' vom 08.12.2016 i.d.F vom 07.17.2017, der ergänzenden KMK-Empfehlung 'Lehren und Lernen in der digitalen Welt' vom 09.12.2021, den KMK-Standards zur 'Lehrerbildung: Bildungswissenschaften' vom 16.12.2004 i.d.F. vom 16.05.2019, den 'Ländergemeinschaftlichen inhaltlichen Anforderungen für die Fachwissenschaften und Fachdidaktiken in der Lehrerbildung' vom 16.10.2008 i.d.F. vom 16.05.2019, dem 'Orientierungsrahmen für die Entwicklung von Curricula für medienpädagogische Studiengänge und Studienanteile' der Sektion Medienpädagogik der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE) aus dem Jahr 2017, der Dagstuhl-Erklärung 'Bildung in der digitalen vernetzten Welt' (März 2016) sowie dem Papier 'Frankfurt-Dreieck zur Bildung in der digital vernetzten Welt' (Juni 2019).",
     "selfassess": false,
     "evidencestatuses": [
       {
@@ -50,15 +50,15 @@
         "standardid": 5
       },
       {
-        "shortname": "6 - Förderung der Medienkompetenz der Lernenden",
-        "name": "6 - Förderung der Medienkompetenz der Lernenden",
-        "description": "Förderung der Medienkompetenz der Lernenden bezieht sich auf die Förderung der 6 im KMK-Strategiepapier beschriebenen Medienkompetenzfacetten sowie in Erweiterung des DigCompEdu allgemein der Medienbildung.",
+        "shortname": "6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
+        "name": "6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
+        "description": "Förderung der Medienkompetenz der Lernenden bezieht sich auf die Förderung der 6 im KMK-Strategiepapier beschriebenen Medienkompetenzfacetten, der laufenden Aktualisierung der eigenen Medienkompetenzen sowie in Erweiterung des DigCompEdu allgemein der Medienbildung von Schülerinnen und Schülern.",
         "standardid": 6
       },
       {
-        "shortname": "7 - Eigene akademische Medienkompetenz",
-        "name": "7 - Eigene akademische Medienkompetenz",
-        "description": "In Erweiterung des DigCompEdu umfasst die  akademische Medienkompetenz ihre eigenen Medienkompetenzen mindestens im Umfang der bei den SuS zu fördernden Medienkompetenzen (siehe Anforderung des KMK-Strategiepapiers bzw. des DigComp 2.2) sowie weitergehender Grundlagen der Kommunikations- und Medienwissenschaften, der Medienpsychologie sowie der Medienpädagogik.",
+        "shortname": "7 - Wissenschaftliche Grundlagen",
+        "name": "7 - Wissenschaftliche Grundlagen",
+        "description": "In Erweiterung des DigCompEdu sowie der KMK-Papiere umfasst der DigCompEdu-HB auch wissenschaftliche Grundlagen aus einer erziehungswissenschaftlichen Perspektive (Medienbildungstheorien), bezugsdisziplinären Perspektiven (Medientheorien) sowie einer forschungsmethodologischen Data Literacy.",
         "standardid": 7
       }
     ],
@@ -182,84 +182,83 @@
         "standardid": 5,
         "elementid": "5.3"
       },
-{
-        "shortname": "6.1 - Basiskompetenzen",
-        "name": "6.1 - Basiskompetenzen",
-        "description": "Lernaktivitäten und Aufgaben integrieren, in denen Lernende bei der Auseinandersetzung mit Medienangeboten die zugrundeliegenden Informatiksysteme identifizieren, dadurch Zusammenhänge erkennen und Probleme lösen.",
+      {
+        "shortname": "6.0 - Basiskompetenzen",
+        "name": "6.0 - Basiskompetenzen",
+        "description": "Informationstechnische Grundlagen sowie grundlegende Bedienkonzepte verstehen und anwenden können.",
+        "standardid": 6,
+        "elementid": "6.0"
+      },
+      {
+        "shortname": "6.1 - Suchen und Verarbeiten",
+        "name": "6.1 - Suchen und Verarbeiten",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Suchen und Filtern; Auswerten und Bewerten; sowie Speichern und Abrufen.",
         "standardid": 6,
         "elementid": "6.1"
       },
       {
-        "shortname": "6.2 - Suchen und Verarbeiten",
-        "name": "6.2 - Suchen und Verarbeiten",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Suchen und Filtern; Auswerten und Bewerten; sowie Speichern und Abrufen.",
+        "shortname": "6.2 - Kommunizieren und Kooperieren",
+        "name": "6.2 - Kommunizieren und Kooperieren",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Interagieren; Teilen; Zusammenarbeiten; Umgangsregeln kennen und einhalten (Netiquette); sowie an der Gesellschaft aktiv teilhaben.",
         "standardid": 6,
         "elementid": "6.2"
       },
       {
-        "shortname": "6.3 - Kommunizieren und Kooperieren",
-        "name": "6.3 - Kommunizieren und Kooperieren",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Interagieren; Teilen; Zusammenarbeiten; Umgangsregeln kennen und einhalten (Netiquette); sowie an der Gesellschaft aktiv teilhaben.",
+        "shortname": "6.3 - Produzieren und Präsentieren",
+        "name": "6.3 - Produzieren und Präsentieren",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Entwickeln und Produzieren; Weiterverarbeiten und Integrieren; sowie Rechtliche Vorgaben beachten.",
         "standardid": 6,
         "elementid": "6.3"
       },
-{
-        "shortname": "6.4 - Produzieren und Präsentieren",
-        "name": "6.4 - Produzieren und Präsentieren",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Entwickeln und Produzieren; Weiterverarbeiten und Integrieren; sowie Rechtliche Vorgaben beachten.",
+      {
+        "shortname": "6.4 - Schützen und sicher agieren",
+        "name": "6.4 - Schützen und sicher agieren",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Sicher in digitalen Umgebungen agieren; Persönliche Daten und Privatsphäre schützen; Gesundheit schützen; sowie Natur und Umwelt schützen.",
         "standardid": 6,
         "elementid": "6.4"
       },
       {
-        "shortname": "6.5 - Schützen und sicher agieren",
-        "name": "6.5 - Schützen und sicher agieren",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Sicher in digitalen Umgebungen agieren; Persönliche Daten und Privatsphäre schützen; Gesundheit schützen; sowie Natur und Umwelt schützen.",
+        "shortname": "6.5 - Problemlösen und Handeln",
+        "name": "6.5 - Problemlösen und Handeln",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Technische Probleme lösen; Werkzeuge bedarfsgerecht einsetzen; Eigene Defizite ermitteln und nach Lösungen suchen; Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen; sowie Algorithmen erkennen und formulieren.",
         "standardid": 6,
         "elementid": "6.5"
       },
-{
-        "shortname": "6.6 - Problemlösen und Handeln",
-        "name": "6.6 - Problemlösen und Handeln",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Technische Probleme lösen; Werkzeuge bedarfsgerecht einsetzen; Eigene Defizite ermitteln und nach Lösungen suchen; Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen; sowie Algorithmen erkennen und formulieren.",
+      {
+        "shortname": "6.6 - Analysieren und Reflektieren",
+        "name": "6.6 - Analysieren und Reflektieren",
+        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Medien analysieren und bewerten; sowie Medien in der digitalen Welt verstehen und reflektieren.",
         "standardid": 6,
         "elementid": "6.6"
       },
       {
-        "shortname": "6.7 - Analysieren und Reflektieren",
-        "name": "6.7 - Analysieren und Reflektieren",
-        "description": "Fachlich eingebundene Vermittlung folgender Kompetenzen: Medien analysieren und bewerten; sowie Medien in der digitalen Welt verstehen und reflektieren.",
+        "shortname": "6.7 - Medienbildung fachbezogen fördern",
+        "name": "6.6 - Medienbildung fachbezogen fördern",
+        "description": "Medienbildung & Critical Media Literacy fachbezogen fördern. Auf Basis des Orientierungsrahmens der Sektion Medienpädagogik der DGfE für medienpädagogische Studiengänge grundlegende Kenntnisse, insbesondere Reflexion und Handeln in medienpädagogischer Verantwortung bzw. berufsethischer Haltung unter den Perspektiven von Erziehung, Bildung und Didaktik. Grundbegriffe und Fragestellungen der Medienpädagogik. Medienpädagogische Konzeptionen, Modelle und Theorien verstehen, analysieren, kritisch einordnen und in Beziehung zu eigenen Vorstellungen setzen können. Medienanalyse, Medienkritik und Mediengestaltung aus der Sicht von Erziehung und Bildung unter Einbezug medienwissenschaftlicher Ansätze bzw. aus Sicht von Lehrenden und Lernen unter Einbezug mediendidaktischer Ansätze durchführen und reflektieren könenn. Ergebnisse und Methoden medienpädagogischer Forschung erläutern, kritisch einordnen und einzelne Verfahren in exemplarischer Weise erarbeiten und reflektiert anwenden können. Medienpädagogische Praxissituationen vor dem Hintergrund von Theorie und Empirie analysieren und bewerten sowie selbst gestalten und evaluieren können. Bildungsangebote und institutionelle Bedingungen medienpädagogischen Handelns erfassen, bewerten und weiterentwickeln können",
         "standardid": 6,
         "elementid": "6.7"
       },
-
-	{
-        "shortname": "7.1 - Eigene Medienbasiskompetenz",
-        "name": "7.1 - Eigene Medienbasiskompetenz",
-        "description": "Auf Basis des DigComp 2.2 alle fünf Kompetenzfacetten auf mindestens Level 4 (intermediate), drei Facetten auf mindestens Level 5 (advanced), zwei Facetten auf mindestens Level 6 (advanced) und eine Facette mindestens auf 7 (specialized).",
+      {
+        "shortname": "7.1 - Medienbildungstheorien und Critical Media Literacy",
+        "name": "7.1 - Medienbildungstheorien und Critical Media Literacy",
+        "description": "Theoretischen Grundlagen der Medienbildung sowie Konzepte und Ansätze der kritischen Medienkompetenz: Verstehen der theoretischen Grundlagen der Medienbildung und des Einflusses von Medien auf individuelle und gesellschaftliche Prozesse, Kenntnis unterschiedlicher Medienbildungstheorien und ihrer Anwendungsmöglichkeiten im schulischen Kontext, Entwicklung eines kritischen Bewusstseins für Medieninhalte und -strukturen, Fähigkeit zur Analyse und Interpretation von Medieninhalten unter Berücksichtigung von Aspekten wie Machtverhältnissen, Stereotypen, Diskriminierung und Manipulation sowie Förderung der Medienkompetenz der Schülerinnen und Schüler durch die Vermittlung von Strategien zur kritischen Auseinandersetzung mit Medien und medienethischen Verhaltens.",
         "standardid": 7,
         "elementid": "7.1"
       },
-	{
-        "shortname": "7.2 - Data Literacy",
-        "name": "7.2 - Data Literacy",
-        "description": "Auf Basis des Data Literacy Frameworks des Hochschulforums Digitalisierung (Working paper No. 53) grundlegendes Verständnis der Kompetenzfelder (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) in Bezug auf schulbasierte bzw. bildungsbezogene Daten entwickeln.",
+      {
+        "shortname": "7.2 - Medientheoretische Grundlagen",
+        "name": "7.2 - Medientheoretische Grundlagen",
+        "description": "Bedeutung von Medientheorien für die Medienbildung. Historische Entwicklung von Medientheorien. Aktuelle Herausforderungen und Tendenzen in der Medienlandschaft wie z.B. Fake News. Konzepte und Modelle der Kommunikationswissenschaft. Medienwirkungsforschung und -theorien. Medienrezeption und Medienaneignung. Mediatisierung. Medienethik und Medienregulierung. Mediensoziologie. Medien und Gesellschaft: Strukturen und Prozesse. Medien und Öffentlichkeit. Medien und Kultur: Identität, Macht und soziale Unterschiede. Grundlagen der Medienpsychologie. Wahrnehmung und Verarbeitung von Medieninhalten. Medien und Emotionen. Medien und Lernen: Bildungspotenziale und Herausforderungen. Informatik und Medien. Technische Grundlagen und aktuelle Entwicklungen. Medienkonvergenz und Interaktivität. Medienproduktion und -distribution. Datenschutz und Medien. Die Strukturen wissenschaftlich beobachten bzw. erfassen, reflektieren, beachten und auf diese Einfluss nehmen, insbesondere Entwicklungen im Medienbereich, Prozesse der Mediatisierung und Digitalisierung im gesellschaftlichen Kontext (einschließlich digitaler Ungleichheit, Kommerzialisierung, Datafizierung, Wandel von Öffentlichkeit), Bedeutung für Lernen, Erziehung und Bildung. Ansätze zu Mediensozialisation und Medienaneignung (einschließlich Fragen des Medien- einflusses sowie des informellen Lernens mit, über und durch Medien). Soziale und kulturelle Praxen im Kontext von Medien (Medienkulturen). Medienpädagogisch relevante Ergebnisse, z.B. der Kommunikationswissenschaft, Medien(kultur)wissenschaft, Informatik, Mediensoziologie, Medienpsychologie und Medienphilosophie kennen und für die schulische Praxis einordnen können.",
         "standardid": 7,
         "elementid": "7.2"
       },
-{
-        "shortname": "7.3 - Medienpädagogische Grundlagen",
-        "name": "7.3 - Medienpädagogische Grundlagen",
-        "description": "Auf Basis des Orientierungsrahmens der Sektion Medienpädagogik der DGfE für medienpädagogische Studiengänge grundlegende Kenntnisse, insbesondere Reflexion und Handeln in medienpädagogischer Verantwortung bzw. berufsethischer Haltung unter den Perspektiven von Erziehung, Bildung und Didaktik. Grundbegriffe und Fragestellungen der Medienpädagogik. Medienpädagogische Konzeptionen, Modelle und Theorien verstehen, analysieren, kritisch einordnen und in Beziehung zu eigenen Vorstellungen setzen können. Medienanalyse, Medienkritik und Mediengestaltung aus der Sicht von Erziehung und Bildung unter Einbezug medienwissenschaftlicher Ansätze bzw. aus Sicht von Lehrenden und Lernen unter Einbezug mediendidaktischer Ansätze durchführen und reflektieren könenn. Ergebnisse und Methoden medienpädagogischer Forschung erläutern, kritisch einordnen und einzelne Verfahren in exemplarischer Weise erarbeiten und reflektiert anwenden können. Medienpädagogische Praxissituationen vor dem Hintergrund von Theorie und Empirie analysieren und bewerten sowie selbst gestalten und evaluieren können. Bildungsangebote und institutionelle Bedingungen medienpädagogischen Handelns erfassen, bewerten und weiterentwickeln können.",
+      {
+        "shortname": "7.3 - Data Literacy",
+        "name": "7.3 - Data Literacy",
+        "description": "Auf Basis des Data Literacy Frameworks des Hochschulforums Digitalisierung (Working paper No. 53) grundlegendes Verständnis der Kompetenzfelder (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) in Bezug auf schulbasierte bzw. bildungsbezogene Daten entwickeln.",
         "standardid": 7,
         "elementid": "7.3"
-      },
-{
-        "shortname": "7.4 - Rahmende Strukturen medienpädagogischen Handelns",
-        "name": "7.4 - Rahmende Strukturen medienpädagogischen Handelns", "description": "Die Strukturen wissenschaftlich beobachten bzw. erfassen, reflektieren, beachten und auf diese Einfluss nehmen, insbesondere Entwicklungen im Medienbereich, Prozesse der Mediatisierung und Digitalisierung im ge- sellschaftlichen Kontext (einschließlich digitaler Ungleichheit, Kommerzialisierung, Datafizierung, Wandel von Öffentlichkeit), Bedeutung für Lernen, Erziehung und Bildung. Ansätze zu Mediensozialisation und Medienaneignung (einschließlich Fragen des Medien- einflusses sowie des informellen Lernens mit, über und durch Medien). Soziale und kulturelle Praxen im Kontext von Medien (Medienkulturen). Medienpädagogisch relevante Ergebnisse, z.B. der Kommunikationswissenschaft, Medien(kultur)wissenschaft, Informatik, Mediensoziologie, Medienpsychologie und Medienphilo- sophie kennen und für die schulische Praxis einordnen können",
-        "standardid": 7,
-        "elementid": "7.4"
       }
-
     ]
   }
 }
