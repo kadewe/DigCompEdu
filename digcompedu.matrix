@@ -1,21 +1,21 @@
 {
   "framework": {
     "institution": "all",
-    "name": "DigCompEdu HB ALPHA",
-    "description": "The DigCompEdu HB is a general reference and competence framework for all phases of initial and in-service teacher education. It is aimed at student teachers, early career teachers as well as experienced teachers and leaders. In this current ALPHA version, it will be tested and further developed in the 2022 academic years. The DigCompEdu HB is based on the European Framework for Teachers' Digital Literacy (DigCompEdu) and the version of the DigCompEdu Bavaria adapted and translated into German by Mebis.",
-    "selfassessment": false,
+    "name": "DigCompEdu HB 2023",
+    "description": "The DigCompEdu HB is a general reference and competence framework for all phases of initial and in-service teacher education. It is aimed at student teachers, young professionals as well as experienced teachers and leaders. In this current version 2023, it will be tested and further developed in the academic years 2023. The DigCompEdu HB is based on the European Framework for the Digital Competence of Teachers (DigCompEdu 2.1), the KMK strategy paper 'Education in the Digital World' of 08.12.2016 as amended on 07.17.2017, the supplementary KMK recommendation 'Teaching and Learning in the Digital World' of 09.12.2021, the KMK standards for 'Teacher Education: Educational Sciences' of 16.12.2004 as amended on 16.05.2019, the 'Ländergemeinschaftliche inhaltliche Anforderungen für die Fachwissenschaften und Fachdidaktiken in der Lehrerbildung' of 16.10.2008 as amended on 16.05. 2019, the 'Orientation framework for the development of curricula for media education courses of study and study components' of the Media Education Section of the German Society for Educational Science (DGfE) from 2017, the Dagstuhl Declaration 'Education in the digitally networked world' (March 2016) and the paper 'Frankfurt Triangle on Education in the digitally networked world' (June 2019).",
+    "selfassess": false,
     "evidencestatuses": [
       {
-        "begun": "ready for assessment"
+        "begun": "Ready for assessment"
       },
       {
-        "incomplete": "Does not meet requirements"
+        "incomplete": "Does not meet the requirements"
       },
       {
-        "partialcomplete": "partially meets requirements"
+        "partialcomplete": "Complies in parts with the requirements"
       },
       {
-        "completed": "Meets requirements"
+        "completed": "Meets the requirements"
       }
     ],
     "standards": [
@@ -56,14 +56,14 @@
         "standardid": 6
       },
       {
-        "shortname": "7 - Own academic media literacy",
-        "name": "7 - Own academic media literacy",
-        "description": "As an extension of DigCompEdu, academic media literacy includes their own media competencies at least to the extent of the media competencies to be fostered in the SuS (see requirement of the KMK strategy paper or DigComp 2.2) as well as more advanced basics of communication and media studies, media psychology, and media education.",
+        "shortname": "7 - Fundamental scientific knowledge",
+        "name": "7 - Fundamental scientific knowledge",
+        "description": "As an extension of DigCompEdu and the KMK papers, the DigCompEdu-HB also includes scientific foundations from an educational science perspective (media education theories), reference discipline perspectives (media theories) as well as a research methodological Data Literacy.",
         "standardid": 7
       }
     ],
     "standardelements": [
-      {
+    {
         "shortname": "1.1 - Professional Communication",
         "name": "1.1 - Professional Communication",
         "description": "Using digital media to communicate with learners, educators, and third parties. Contribute to the development and improvement of organizational communication strategies.",
@@ -182,84 +182,84 @@
         "standardid": 5,
         "elementid": "5.3"
       },
-{
-        "shortname": "6.1 - Basic Competencies",
-        "name": "6.1 - Basic Competencies",
-        "description": "Integrate learning activities and tasks in which learners identify underlying information technology systems as they engage with media opportunities, thereby identifying contexts and solving problems.",
+ {
+        "shortname": "6.0 - Basic competencies",
+        "name": "6.0 - Understand and be able to apply information technology basics as well as basic operating concepts.",
+        "description": "Understand and be able to apply information technology basics as well as basic operating concepts.",
+        "standardid": 6,
+        "elementid": "6.0"
+      },
+   
+      {
+        "shortname": "6.1 - Search and Process",
+        "name": "6.1 - Search and Process",
+        "description": "Subject-integrated teaching of the following competencies: searching and filtering; evaluating and assessing; and storing and retrieving.",
         "standardid": 6,
         "elementid": "6.1"
       },
       {
-        "shortname": "6.2 - Search and Process",
-        "name": "6.2 - Search and Process",
-        "description": "Subject-integrated teaching of the following competencies: searching and filtering; evaluating and assessing; and storing and retrieving.",
+        "shortname": "6.2 - Communicate and Cooperate",
+        "name": "6.2 - Communicate and Cooperate",
+        "description": "Subject-integrated teaching of the following competencies: Interacting; Sharing; Cooperating; Knowing and abiding by rules of etiquette (netiquette); and Actively participating in society.",
         "standardid": 6,
         "elementid": "6.2"
       },
-      {
-        "shortname": "6.3 - Communicate and Cooperate",
-        "name": "6.3 - Communicate and Cooperate",
-        "description": "Subject-integrated teaching of the following competencies: Interacting; Sharing; Cooperating; Knowing and abiding by rules of etiquette (netiquette); and Actively participating in society.",
+{
+        "shortname": "6.3 - Produce and Present",
+        "name": "6.3 - Produce and Present",
+        "description": "Subject-integrated teaching of the following competencies: Developing and Producing; Further Processing and Integrating; and Observing Legal Requirements.",
         "standardid": 6,
         "elementid": "6.3"
       },
-{
-        "shortname": "6.4 - Produce and Present",
-        "name": "6.4 - Produce and Present",
-        "description": "Subject-integrated teaching of the following competencies: Developing and Producing; Further Processing and Integrating; and Observing Legal Requirements.",
+      {
+        "shortname": "6.4 - Protect and act safely",
+        "name": "6.4 - Protect and act safely",
+        "description": "Subject-embedded teaching of the following competencies: acting safely in digital environments; protecting personal data and privacy; protecting health; and protecting nature and the environment.",
         "standardid": 6,
         "elementid": "6.4"
       },
-      {
-        "shortname": "6.5 - Protect and act safely",
-        "name": "6.5 - Protect and act safely",
-        "description": "Subject-embedded teaching of the following competencies: acting safely in digital environments; protecting personal data and privacy; protecting health; and protecting nature and the environment.",
+{
+        "shortname": "6.5 - Problem Solving and Action",
+        "name": "6.5 - Problem Solving and Action",
+        "description": "Subject-integrated teaching of the following competencies: Solve technical problems; Use tools as needed; Identify own deficits and search for solutions; Use digital tools and media to learn, work, and solve problems; and Recognize and formulate algorithms.",
         "standardid": 6,
         "elementid": "6.5"
       },
-{
-        "shortname": "6.6 - Problem Solving and Action",
-        "name": "6.6 - Problem Solving and Action",
-        "description": "Subject-integrated teaching of the following competencies: Solve technical problems; Use tools as needed; Identify own deficits and search for solutions; Use digital tools and media to learn, work, and solve problems; and Recognize and formulate algorithms.",
+      {
+        "shortname": "6.6 - Analyze and Reflect",
+        "name": "6.6 - Analyze and Reflect",
+        "description": "Subject-integrated teaching of the following competencies: Analyze and evaluate media; and Understand and reflect on media in the digital world.",
         "standardid": 6,
         "elementid": "6.6"
       },
       {
-        "shortname": "6.7 - Analyze and Reflect",
-        "name": "6.7 - Analyze and Reflect",
-        "description": "Subject-integrated teaching of the following competencies: Analyze and evaluate media; and Understand and reflect on media in the digital world.",
+        "shortname": "6.7 - Promote media education in a subject-related manner",
+        "name": "6.7 - Promote media education in a subject-related manner",
+        "description": "Promote media education & critical media literacy in a subject-related manner. On the basis of the orientation framework of the Media Education Section of the DGfE for media education courses of study, basic knowledge, in particular reflection and action in media education responsibility or professional ethical attitude under the perspectives of upbringing, education and didactics. Basic concepts and issues of media education. Understand, analyse and critically classify media education concepts, models and theories and be able to relate them to one's own ideas. To be able to carry out and reflect on media analysis, media criticism and media design from the point of view of education with the inclusion of media science approaches or from the point of view of teachers and learning with the inclusion of media didactic approaches. explain the results and methods of media pedagogical research, critically classify them and be able to work out and reflect on individual procedures in an exemplary manner. To be able to analyse and evaluate media educational practice situations against the background of theory and empiricism and to design and evaluate them themselves. Be able to record, evaluate and further develop educational offers and institutional conditions of media education.",
         "standardid": 6,
         "elementid": "6.7"
       },
-
-	{
-        "shortname": "7.1 - Own basic media literacy",
-        "name": "7.1 - Own Media Base Competency",
-        "description": "Based on DigComp 2.2, all five competency facets to at least level 4 (intermediate), three facets to at least level 5 (advanced), two facets to at least level 6 (advanced), and one facet to at least level 7 (specialized).",
+      {
+        "shortname": "7.1 - Media Education Theories and Critical Media Literacy",
+        "name": "7.1 - Media Education Theories and Critical Media Literacy",
+        "description": "Theoretical foundations of media education as well as concepts and approaches of critical media literacy: Understanding the theoretical foundations of media education and the influence of media on individual and social processes, knowledge of different media education theories and their possible applications in the school context, development of a critical awareness of media content and structures, ability to analyse and interpret media content taking into account aspects such as power relations, stereotypes, discrimination and manipulation, as well as promotion of students' media literacy by teaching them strategies for critical engagement with media and media-ethical behaviour.",
         "standardid": 7,
         "elementid": "7.1"
       },
-	{
-        "shortname": "7.2 - Data Literacy",
-        "name": "7.2 - Data Literacy",
-        "description": "Based on the Data Literacy Framework of the Higher Education Forum on Digitization (Working paper No. 53), develop a basic understanding of the competency areas (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) related to school-based/educational data.",
+      {
+        "shortname": "7.2 - Media theoretical foundations",
+        "name": "7.2 - Media theoretical foundations",
+        "description": "Significance of media theories for media education. Historical development of media theories. Current challenges and trends in the media landscape such as fake news. Concepts and models of communication studies. Media effects research and theories. Media reception and media appropriation. Mediatisation. Media ethics and media regulation. Media sociology. Media and society: structures and processes. Media and the public sphere. Media and culture: Identity, power and social differences. Basics of media psychology. Perception and processing of media content. Media and emotions. Media and learning: educational potentials and challenges. Information technology and media. Technical basics and current developments. Media convergence and interactivity. Media production and distribution. Data protection and media. Scientifically observing or recording, reflecting on, observing and influencing structures, in particular developments in the media sector, processes of mediatisation and digitalisation in a social context (including digital inequality, commercialisation, datafication, changes in the public sphere), significance for learning, upbringing and education. Approaches to media socialisation and media appropriation (including questions of media influence and informal learning with, about and through media). Social and cultural practices in the context of media (media cultures). To know results relevant to media education, e.g. communication science, media (cultural) science, computer science, media sociology, media psychology and media philosophy and to be able to classify them for school practice..",
         "standardid": 7,
         "elementid": "7.2"
       },
-{
-        "shortname": "7.3 - Media Education Foundations",
-        "name": "7.3 - Media Pedagogical Foundations",
-        "description": "Based on the orientation framework of the Media Education Section of the DGfE for media education courses of study, basic knowledge, in particular reflection and action in media education responsibility or professional ethical attitude under the perspectives of education, education and didactics. Basic concepts and questions of media pedagogy. Understanding, analyzing and critically classifying media pedagogical concepts, models and theories and being able to relate them to one's own ideas. To be able to carry out and reflect on media analysis, media criticism and media design from the point of view of education and training, including media science approaches, and from the point of view of teaching and learning, including media didactic approaches. explain results and methods of media pedagogical research, critically classify them and be able to work out and reflect on individual procedures in an exemplary manner. Analyze and evaluate practical media education situations against the background of theory and empiricism and be able to design and evaluate them themselves. To be able to grasp, evaluate and further develop educational offers and institutional conditions of media pedagogical action.",
+      {
+        "shortname": "7.3 - Data Literacy",
+        "name": "7.3 - Data Literacy",
+        "description": "Based on the Data Literacy Framework of the Higher Education Forum on Digitisation (Working paper No. 53), develop a basic understanding of the competence fields (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) in relation to school-based and education-related data.",
         "standardid": 7,
         "elementid": "7.3"
-      },
-{
-        "shortname": "7.4 - Framing structures of media pedagogical action",
-        "name": "7.4 - Framing Structures of Media Pedagogical Action", "description": "Scientifically observe or record, reflect, observe and influence the structures, especially developments in the media field, processes of mediatization and digitalization in the societal context (including digital inequality, commercialization, datafication, change of public sphere), significance for learning, education and upbringing. Approaches to media socialization and media appropriation (including questions of media influence as well as informal learning with, about and through media). Social and cultural practices in the context of media (media cultures). Media pedagogically relevant results, e.g. of communication science, media (culture) science, computer science, media sociology, media psychology and media philo- sophy know and can classify for school practice.",
-        "standardid": 7,
-        "elementid": "7.4"
       }
-
     ]
   }
 }
