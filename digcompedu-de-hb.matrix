@@ -1,8 +1,8 @@
 {
   "framework": {
     "institution": "all",
-    "name": "DigCompEdu HB 2023",
-    "description": "Der DigCompEdu HB ist ein allgemeiner Bezugs- und Kompetenzrahmen für alle Phasen der Aus- und Fortbildung von Lehrkräften. Er richtet sich an Lehramtsstudierende, Berufseinsteigerinnen und -einsteiger wie auch an erfahrene Lehrkräfte und Führungspersonen. In dieser aktuellen Version 2023 wird er in den Studienjahren 2023 erprobt und weiterentwickelt. Der DigCompEdu HB basiert auf dem Europäischen Rahmen für die Digitale Kompetenz von Lehrenden (DigCompEdu 2.1), dem KMK Strategiepapier 'Bildung in der digitalen Welt' vom 08.12.2016 i.d.F vom 07.17.2017, der ergänzenden KMK-Empfehlung 'Lehren und Lernen in der digitalen Welt' vom 09.12.2021, den KMK-Standards zur 'Lehrerbildung: Bildungswissenschaften' vom 16.12.2004 i.d.F. vom 16.05.2019, den 'Ländergemeinschaftlichen inhaltlichen Anforderungen für die Fachwissenschaften und Fachdidaktiken in der Lehrerbildung' vom 16.10.2008 i.d.F. vom 16.05.2019, dem 'Orientierungsrahmen für die Entwicklung von Curricula für medienpädagogische Studiengänge und Studienanteile' der Sektion Medienpädagogik der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE) aus dem Jahr 2017, der Dagstuhl-Erklärung 'Bildung in der digitalen vernetzten Welt' (März 2016) sowie dem Papier 'Frankfurt-Dreieck zur Bildung in der digital vernetzten Welt' (Juni 2019).",
+    "name": "DigCompEdu HB 2024",
+    "description": "Der DigCompEdu HB ist ein allgemeiner Bezugs- und Kompetenzrahmen für alle Phasen der Aus- und Fortbildung von Lehrkräften. Er richtet sich an Lehramtsstudierende, Berufseinsteigerinnen und -einsteiger wie auch an erfahrene Lehrkräfte und Führungspersonen. In dieser aktuellen Version 2024 wird er im Studienjahr 2024 erprobt und weiterentwickelt. Der DigCompEdu HB basiert auf dem Europäischen Rahmen für die Digitale Kompetenz von Lehrenden (DigCompEdu 2.1), dem KMK Strategiepapier 'Bildung in der digitalen Welt' vom 08.12.2016 i.d.F vom 07.17.2017, der ergänzenden KMK-Empfehlung 'Lehren und Lernen in der digitalen Welt' vom 09.12.2021, den KMK-Standards zur 'Lehrerbildung: Bildungswissenschaften' vom 16.12.2004 i.d.F. vom 16.05.2019, den 'Ländergemeinschaftlichen inhaltlichen Anforderungen für die Fachwissenschaften und Fachdidaktiken in der Lehrerbildung' vom 16.10.2008 i.d.F. vom 16.05.2019, dem 'Orientierungsrahmen für die Entwicklung von Curricula für medienpädagogische Studiengänge und Studienanteile' der Sektion Medienpädagogik der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE) aus dem Jahr 2017, der Dagstuhl-Erklärung 'Bildung in der digitalen vernetzten Welt' (März 2016) sowie dem Papier 'Frankfurt-Dreieck zur Bildung in der digital vernetzten Welt' (Juni 2019).",
     "selfassess": false,
     "evidencestatuses": [
       {
@@ -20,44 +20,44 @@
     ],
     "standards": [
       {
-        "shortname": "1 - Berufsbezogenes Handeln",
-        "name": "1 - Berufsbezogenes Handeln",
+        "shortname": "DCE.1 - Berufsbezogenes Handeln",
+        "name": "DCE.1 - Berufsbezogenes Handeln",
         "description": "Berufsbezogenes Handeln bezieht auf Ihre Kompetenzen, digitale Werkzeuge, Dienste und Umgebungen auszuwählen, zu nutzen und zu gestalten für die berufliche Kommunikation, die kollegiale Zusammenarbeit, das reflektierte Handeln sowie für die kontinuierliche Weiterentwicklung.",
         "standardid": 1
       },
       {
-        "shortname": "2 - Digitale Ressourcen",
-        "name": "2 - Digitale Ressourcen",
+        "shortname": "DCE.2 - Digitale Ressourcen",
+        "name": "DCE.2 - Digitale Ressourcen",
         "description": "Digitale Ressourcen umfasst Ihre Kompetenzen, digitale Ressourcen begründet auszuwählen, digitale Ressourcen für den Einsatz im Unterricht zu erstellen und anzupassen, sowie digitale Ressourcen zu organisieren, schützen und teilen.",
         "standardid": 2
       },
       {
-        "shortname": "3 - Lehren und Lernen",
-        "name": "3 - Lehren und Lernen",
+        "shortname": "DCE.3 - Lehren und Lernen",
+        "name": "DCE.3 - Lehren und Lernen",
         "description": "Lehren und Lernen bezieht sich auf die gezielte Nutzung digitaler Medien und Werkzeuge im Unterricht, Lernbegleitung digital zu unterstützen, kollaboratives Lernen digital zu fördern sowie selbstgesteuertes Lernen zu ermöglichen.",
         "standardid": 3
       },
       {
-        "shortname": "4 - Lerndiagnose und Feedback",
-        "name": "4 - Lerndiagnose und Feedback",
+        "shortname": "DCE.4 - Lerndiagnose und Feedback",
+        "name": "DCE.4 - Lerndiagnose und Feedback",
         "description": "Lerndiagnose und Feedback bezieht sich auf die reflektierte Nutzung digitaler Medien für die Lernstandserhebung, zur Analyse der Lernevidenz sowie des Einsatzes für Feedback und Planung.",
         "standardid": 4
       },
       {
-        "shortname": "5 - Schülerorientierung",
-        "name": "5 - Schülerorientierung",
+        "shortname": "DCE.5 - Schülerorientierung",
+        "name": "DCE.5 - Schülerorientierung",
         "description": "Schülerorientierung bezieht sich auf die Sicherung von Barrierefreiheit und digitaler Teilhabe, Differenzierung sowie Schüleraktivierung.",
         "standardid": 5
       },
       {
-        "shortname": "6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
-        "name": "6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
+        "shortname": "DCE.6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
+        "name": "DCE.6 - Förderung der Medienkompetenz der Lernenden und eigene Medienkompetenzen",
         "description": "Förderung der Medienkompetenz der Lernenden bezieht sich auf die Förderung der 6 im KMK-Strategiepapier beschriebenen Medienkompetenzfacetten, der laufenden Aktualisierung der eigenen Medienkompetenzen sowie in Erweiterung des DigCompEdu allgemein der Medienbildung von Schülerinnen und Schülern.",
         "standardid": 6
       },
       {
-        "shortname": "7 - Wissenschaftliche Grundlagen",
-        "name": "7 - Wissenschaftliche Grundlagen",
+        "shortname": "G - Wissenschaftliche Grundlagen",
+        "name": "G - Wissenschaftliche Grundlagen",
         "description": "In Erweiterung des DigCompEdu sowie der KMK-Papiere umfasst der DigCompEdu-HB auch wissenschaftliche Grundlagen aus einer erziehungswissenschaftlichen Perspektive (Medienbildungstheorien), bezugsdisziplinären Perspektiven (Medientheorien) sowie einer forschungsmethodologischen Data Literacy.",
         "standardid": 7
       }
@@ -239,25 +239,32 @@
         "elementid": "6.7"
       },
       {
-        "shortname": "7.1 - Medienbildungstheorien und Critical Media Literacy",
-        "name": "7.1 - Medienbildungstheorien und Critical Media Literacy",
-        "description": "Theoretischen Grundlagen der Medienbildung sowie Konzepte und Ansätze der kritischen Medienkompetenz: Verstehen der theoretischen Grundlagen der Medienbildung und des Einflusses von Medien auf individuelle und gesellschaftliche Prozesse, Kenntnis unterschiedlicher Medienbildungstheorien und ihrer Anwendungsmöglichkeiten im schulischen Kontext, Entwicklung eines kritischen Bewusstseins für Medieninhalte und -strukturen, Fähigkeit zur Analyse und Interpretation von Medieninhalten unter Berücksichtigung von Aspekten wie Machtverhältnissen, Stereotypen, Diskriminierung und Manipulation sowie Förderung der Medienkompetenz der Schülerinnen und Schüler durch die Vermittlung von Strategien zur kritischen Auseinandersetzung mit Medien und medienethischen Verhaltens.",
+        "shortname": "G.1 - Erziehungswissenschaftliche Perspektiven",
+        "name": "G.1 - Erziehungswissenschaftliche Perspektiven",
+        "description": "Theoretischen Grundlagen der Medienbildung sowie Konzepte und Ansätze einer kritischen Medienerziehung: Verstehen der theoretischen Grundlagen der Medienbildung und des Einflusses von Medien auf individuelle und gesellschaftliche Prozesse, Kenntnis unterschiedlicher Medienbildungstheorien und ihrer Anwendungsmöglichkeiten im schulischen Kontext, Entwicklung eines kritischen Bewusstseins für Medieninhalte und -strukturen, Fähigkeit zur Analyse und Interpretation von Medieninhalten unter Berücksichtigung von Aspekten wie Machtverhältnissen, Stereotypen, Diskriminierung und Manipulation sowie Förderung der Medienkompetenz der Schülerinnen und Schüler durch die Vermittlung von Strategien zur kritischen Auseinandersetzung mit Medien und medienethischen Verhaltens. Ansätze zur Mediensozialisation und Medienaneignung (einschließlich Fragen des Medieneinflusses sowie des informellen Lernens mit, über und durch Medien) kennen und im schulischen Kontext berücksichtigen. Soziale und kulturelle Praxen im Kontext von Medien (Medienkulturen) analysieren. ",
         "standardid": 7,
         "elementid": "7.1"
       },
       {
-        "shortname": "7.2 - Medientheoretische Grundlagen",
-        "name": "7.2 - Medientheoretische Grundlagen",
-        "description": "Bedeutung von Medientheorien für die Medienbildung. Historische Entwicklung von Medientheorien. Aktuelle Herausforderungen und Tendenzen in der Medienlandschaft wie z.B. Fake News. Konzepte und Modelle der Kommunikationswissenschaft. Medienwirkungsforschung und -theorien. Medienrezeption und Medienaneignung. Mediatisierung. Medienethik und Medienregulierung. Mediensoziologie. Medien und Gesellschaft: Strukturen und Prozesse. Medien und Öffentlichkeit. Medien und Kultur: Identität, Macht und soziale Unterschiede. Grundlagen der Medienpsychologie. Wahrnehmung und Verarbeitung von Medieninhalten. Medien und Emotionen. Medien und Lernen: Bildungspotenziale und Herausforderungen. Informatik und Medien. Technische Grundlagen und aktuelle Entwicklungen. Medienkonvergenz und Interaktivität. Medienproduktion und -distribution. Datenschutz und Medien. Die Strukturen wissenschaftlich beobachten bzw. erfassen, reflektieren, beachten und auf diese Einfluss nehmen, insbesondere Entwicklungen im Medienbereich, Prozesse der Mediatisierung und Digitalisierung im gesellschaftlichen Kontext (einschließlich digitaler Ungleichheit, Kommerzialisierung, Datafizierung, Wandel von Öffentlichkeit), Bedeutung für Lernen, Erziehung und Bildung. Ansätze zu Mediensozialisation und Medienaneignung (einschließlich Fragen des Medien- einflusses sowie des informellen Lernens mit, über und durch Medien). Soziale und kulturelle Praxen im Kontext von Medien (Medienkulturen). Medienpädagogisch relevante Ergebnisse, z.B. der Kommunikationswissenschaft, Medien(kultur)wissenschaft, Informatik, Mediensoziologie, Medienpsychologie und Medienphilosophie kennen und für die schulische Praxis einordnen können.",
+        "shortname": "G.2 - Medientheoretische Grundlagen",
+        "name": "G.2 - Medientheoretische Grundlagen",
+        "description": "Bedeutung von Medientheorien für die Medienbildung und für die schulische Praxis einordnen können. Historische Entwicklung von Medientheorien. Aktuelle Herausforderungen und Tendenzen in der Medienlandschaft wie z.B. Fake News, Plattformkapitalismus, Datafizierung, Lost Decade, Privacy Erosion, Mis/Disinformation, Echo Chambers, AI Misuse, Environmental Impact, Cyberbullying, Social Media Addiction, Dark Social Media Patterns. Konzepte und Modelle der Kommunikationswissenschaft. Medienwirkungsforschung und -theorien. Medienrezeption und Medienaneignung. Mediatisierung. Medienethik und Medienregulierung. Mediensoziologie. Medien und Gesellschaft: Strukturen und Prozesse. Medien und Öffentlichkeit. Medien und Kultur: Identität, Macht und soziale Unterschiede. Grundlagen der Medienpsychologie. Wahrnehmung und Verarbeitung von Medieninhalten. Medien und Emotionen. Medien und Lernen: Bildungspotenziale und Herausforderungen. Medienproduktion und -distribution. Datenschutz und Medien. Die Medienlandschaft wissenschaftlich beobachten bzw. erfassen, reflektieren, beachten und auf diese Einfluss nehmen. Entwicklungen im Medienbereich, Prozesse der Mediatisierung, Medialisierung und Digitalisierung im gesellschaftlichen Kontext (einschließlich digitaler Ungleichheit, Kommerzialisierung, Datafizierung, Wandel von Öffentlichkeit) in Bezug zu den eigenen Unterrichtsfächern sowie Bildungsprozesse setzen können.",
         "standardid": 7,
         "elementid": "7.2"
       },
       {
-        "shortname": "7.3 - Data Literacy",
-        "name": "7.3 - Data Literacy",
-        "description": "Auf Basis des Data Literacy Frameworks des Hochschulforums Digitalisierung (Working paper No. 53) grundlegendes Verständnis der Kompetenzfelder (Establishing a Data Culture, Providing Data, Evaluating Data, Interpreting Data Products, Interpreting Data, Deriving actions) in Bezug auf schulbasierte bzw. bildungsbezogene Daten entwickeln.",
+        "shortname": "G.3 - Informatikkompetenzen für alle Lehrkräfte",
+        "name": "G.3 - Informatikkompetenzen für alle Lehrkräfte",
+        "description": "Auf Basis der Empfehlungen der Gesellschaft für Informatik vom 30.06.2023 umfassen die Informatikkompetenzen für alle Lehrkräfte inhaltsbezogene Kompetenzen (Informationen und Daten; Algorithmen; Sprachen und Automaten; Informatiksysteme; Informatik, Mensch und Gesellschaft) sowie prozessbezogene Kompetenzen (Modellieren und Implementieren; Begründen und Bewerten; Strukturieren und Vernetzen; Kommunizieren und Kooperieren; Darstellen und Interpretieren). Aktuelle technische Entwicklungen kennen und einordnen können.",
         "standardid": 7,
         "elementid": "7.3"
+      },
+      {
+        "shortname": "G.4 - Aktuelle fächerübergreifende Diskurse und Literacies",
+        "name": "G.4 - Aktuelle fächerübergreifende Diskurse und Literacies",
+        "description": "Aktuelle fächerübergreifend Diskurse kennen (wie z.B. AGI oder Datafizierung) und in ihrer Gegenwarts- und Zukunftsbedeutung für Gesellschaft und Bildungssystem einordnen können. Kenntnis und Einordnung der Kompetenzfelder neuer Literacies wie z.B. Data Literacy oder AI Literacy in Bezug auf Schule, Erziehung und Bildung. Selbstständige Auswahl und Aneignung schul- oder bildungsbezogener Teilkompetenzen. Erschließung fachbezogener Kompetenzen zur Vermittlung im Fachunterricht.",
+        "standardid": 7,
+        "elementid": "7.4"
       }
     ]
   }
